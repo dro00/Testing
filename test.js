@@ -1,3 +1,3 @@
-const test = "goodbye";
-
-console.log(test);
+const func = () => {
+  console.log(test);
+};
